@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-<h3>Software Engineer - from 🇦🇷, currently living in 🇳🇱</h3>
+<h3>Software Engineer - from 🇦🇷 living in 🇳🇱</h3>
 
 <h3>Currently working with</h3>
 
